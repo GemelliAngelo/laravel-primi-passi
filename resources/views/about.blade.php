@@ -16,9 +16,9 @@
             <span><a href="/contacts">CONTATTI</a></span>
         </nav>
     </header>
+
     <div class="container">
-        <h1>HELLO WORLD!</h1>
-        <h2>{{$dati}}</h2>
+        <h1>CHI SIAMO</h1>
     </div>
 </body>
 
