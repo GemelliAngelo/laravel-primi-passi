@@ -10,10 +10,10 @@
 <body>
     <header>
         <nav>
-            <span><a href="/">HOME</a></span>
-            <span><a href="/about">CHI SIAMO</a></span>
-            <span><a href="/service">SERVIZI</a></span>
-            <span><a href="/contacts">CONTATTI</a></span>
+            <span><a href={{route("home")}}>HOME</a></span>
+            <span><a href={{route("about")}}>CHI SIAMO</a></span>
+            <span><a href={{route("service")}}>SERVIZI</a></span>
+            <span><a href={{route("contacts")}}>CONTATTI</a></span>
         </nav>
     </header>
 
