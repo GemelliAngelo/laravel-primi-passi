@@ -19,6 +19,7 @@
 
     <div class="container">
         <h1>CHI SIAMO</h1>
+        <h2>{{$dati}}</h2>
     </div>
 </body>
 

@@ -19,6 +19,8 @@
 
     <div class="container">
         <h1>SERVIZI</h1>
+        <h2>{{$dati}}</h2>
+
     </div>
 </body>
 
